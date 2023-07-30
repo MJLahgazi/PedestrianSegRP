@@ -27,7 +27,7 @@ git clone https://github.com/MJLahgazi/PedestrianSegRP.git
 pip install tensorflow opencv-python matplotlib
 ```
 
-1. Download the YOLO v3 weights file named yolov3_320.weights and place it in the root directory. Unfortunately, the file is too large to be included in the repository.
+1. Download the YOLO v3 weights file named "yolov3_320.weights" and place it in the root directory. Unfortunately, the file is too large to be included in the repository.
 
 2. The images used for tests are placed in the folder "test_images."
 
