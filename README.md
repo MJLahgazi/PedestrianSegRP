@@ -46,3 +46,10 @@ import time
 
 Follow the instructions in the scientific paper to understand and utilize the code effectively.
 
+## Output Examples
+
+You can view some output examples of the pedestrian segmentation below:
+
+![Output 1](./results/1.png)
+![Output 1](./results/2.png)
+
